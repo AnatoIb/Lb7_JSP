@@ -1,0 +1,20 @@
+body {
+    background: darkseagreen;
+}
+
+div {
+    margin: 3%;
+}
+
+button {
+    background-color: transparent;
+    outline:none;
+}
+
+p {
+    font-size: 15pt;
+}
+
+#result {
+    font-size: 25pt;
+}
